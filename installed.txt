@@ -1,3 +1,0 @@
-cognitivecomplexity-rider
-com.intellij.resharper.HeapAllocationsViewer
-org.intellij.plugins.markdown
